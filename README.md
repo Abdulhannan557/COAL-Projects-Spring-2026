@@ -23,7 +23,7 @@
 
 This is the official project submission repository for **Computer Organization and Architecture (COAL)** — Spring 2026, Iqra University Islamabad.
 
-All students are required to submit their semester projects here by following the contribution workflow below.
+All students are required to submit their semester projects here.
 
 **Instructor:** Tayyaba Shehzad
 
